@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Dilshod Davletyarov
 
 ## 🧑‍💻 About Me
 I'm a software developer with a focus on **backend development**, currently studying at [42 Berlin](https://www.42berlin.de/). With a solid background in **C**, **C++**, and **Python**, I am passionate about building efficient, scalable systems. I also have experience in **server management** on **Ubuntu** and working with the **Django** library for backend solutions.
