@@ -61,7 +61,7 @@ Feel free to reach out to me through:
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fact about me
 I'm passionate about combining my technical skills with my entrepreneurial background to build meaningful and efficient software solutions!
 
 ---
