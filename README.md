@@ -43,7 +43,6 @@ I’m currently deepening my knowledge in:
 - **Optimizing performance in C++**.
 - **Open-source contributions** to Django-related projects.
 - **Java language philosophy** for backend development
-- **
 
 ---
 
