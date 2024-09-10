@@ -22,7 +22,7 @@ Previously, I worked in **external economic affairs** and finance, where I devel
 ### [Custom Shell](https://github.com/ddavlet/minishell)
 A fully functional shell built from scratch, supporting **basic commands**, **piping**, and **error handling**. This project improved my understanding of **process management**, **memory allocation**, and **system calls** in Linux.
 
-### [Multithreaded Web Server](https://github.com/ddavlet/webserv)
+### [Non-blocking C++ Web Server](https://github.com/ddavlet/webserv)
 A high-performance web server built using C/C++, handling multiple client requests. This project was essential in understanding **non-blocking polling**, **HTTP standards**, and **socket programming**.
 
 ### [Microservices deployment](https://github.com/ddavlet/inception)
