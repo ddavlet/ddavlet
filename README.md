@@ -25,7 +25,7 @@ A fully functional shell built from scratch, supporting **basic commands**, **pi
 ### [Multithreaded Web Server](https://github.com/ddavlet/webserv)
 A high-performance web server built using C/C++, handling multiple client requests. This project was essential in understanding **non-blocking polling**, **HTTP standards**, and **socket programming**.
 
-### [Microservices ocherchestration](https://github.com/ddavlet/inception)
+### [Microservices deployment](https://github.com/ddavlet/inception)
 System administation by using Docker. Building several Dockers with Docker compose, networking and shared volumes.
 
 ### [Philosophers problem](https://github.com/ddavlet/Philosophers)
