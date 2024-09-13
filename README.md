@@ -34,7 +34,7 @@ Solving a philosophers problem with **multi-threading** and **multi-processing**
 ### [Building pseudo 3D game](https://github.com/ddavlet/cub3D)
 Cub3D is a raycasting-based 3D graphical project inspired by the classic Wolfenstein 3D game. Developed using **C** and the **miniLibX** library, the project simulates a first-person view inside a maze, where the player navigates and interacts with the environment. The project emphasizes core computer science concepts such as memory management, event handling, and graphical rendering while exploring the use of mathematics in game development.
 
-### [Pong cross-platform game](https://github.com/ddavlet/ft_transcendance)
+### [Pong cross-platform game](https://github.com/ddavlet/ft_transcendence)
 This project involves building a web application using Django, focusing on user management, security, and gameplay experience. The application allows users to play a real-time multiplayer Pong game, with key features such as two-factor authentication (2FA), JWT-based authentication, and user registration with customizable profiles. Additionally, the project implements an API server, security measures (password hashing, protection against XSS/SQL injections), and a CLI-based Pong client.
 
 ## 🌱 Currently Learning
