@@ -19,22 +19,22 @@ Previously, I worked in **external economic affairs** and finance, where I devel
 
 ## 🔥 Featured Projects
 
-### [Custom Shell](https://github.com/ddavlet/minishell)
+### [Custom Shell: C](https://github.com/ddavlet/minishell)
 A fully functional shell built from scratch, supporting **basic commands**, **piping**, and **error handling**. This project improved my understanding of **process management**, **memory allocation**, and **system calls** in Linux.
 
-### [Non-blocking C++ Web Server](https://github.com/ddavlet/webserv)
+### [Non-blocking Web Server: C++](https://github.com/ddavlet/webserv)
 A high-performance web server built using C/C++, handling multiple client requests. This project was essential in understanding **non-blocking polling**, **HTTP standards**, and **socket programming**.
 
-### [Microservices deployment](https://github.com/ddavlet/inception)
+### [Microservices deployment: Docker](https://github.com/ddavlet/inception)
 System administation by using Docker. Building several Dockers with Docker compose, networking and shared volumes.
 
-### [Philosophers problem](https://github.com/ddavlet/Philosophers)
+### [Philosophers problem: C](https://github.com/ddavlet/Philosophers)
 Solving a philosophers problem with **multi-threading** and **multi-processing**. This project provides insights to data races problem, thread synchronization and inter-process communication using semaphores.
 
-### [Building pseudo 3D game](https://github.com/ddavlet/cub3D)
+### [Building pseudo 3D game: C](https://github.com/ddavlet/cub3D)
 Cub3D is a raycasting-based 3D graphical project inspired by the classic Wolfenstein 3D game. Developed using **C** and the **miniLibX** library, the project simulates a first-person view inside a maze, where the player navigates and interacts with the environment. The project emphasizes core computer science concepts such as memory management, event handling, and graphical rendering while exploring the use of mathematics in game development.
 
-### [Pong cross-platform game](https://github.com/ddavlet/ft_transcendence)
+### [Pong cross-platform game: Multilanguage](https://github.com/ddavlet/ft_transcendence)
 This project involves building a web application using Django, focusing on user management, security, and gameplay experience. The application allows users to play a real-time multiplayer Pong game, with key features such as two-factor authentication (2FA), JWT-based authentication, and user registration with customizable profiles. Additionally, the project implements an API server, security measures (password hashing, protection against XSS/SQL injections), and a CLI-based Pong client.
 
 ## 🌱 Currently Learning
@@ -43,6 +43,11 @@ I’m currently deepening my knowledge in:
 - **Optimizing performance in C++**.
 - **Open-source contributions** to Django-related projects.
 - **Java language philosophy** for backend development
+
+## 📽 Projects in progress
+
+### [Simple scenario simulator: Java](https://github.com/ddavlet/Ajax-Launcher)
+Implementation of a simple Java program according to a given class diagram written in UML. Airport simulator configurable with multiple scenarios to analyse potential bottleneck.
 
 ---
 
