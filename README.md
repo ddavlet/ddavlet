@@ -9,7 +9,7 @@ Previously, I worked in **external economic affairs** and finance, where I devel
 
 ## 🔧 Skills & Technologies
 
-- **Languages**: C, C++, Python, Bash
+- **Languages**: C, C++, Python, Java, Bash
 - **Frameworks**: Django
 - **DevOps & Tools**: Git, Docker, Nginx, Ubuntu Server
 - **Version Control**: Git, GitHub
