@@ -71,5 +71,5 @@ I'm passionate about combining my technical skills with my entrepreneurial backg
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddavlet&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddavlet&show_icons=true&theme=radical)
 
