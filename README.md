@@ -19,6 +19,8 @@ Previously, I worked in **external economic affairs** and finance, where I devel
 
 ## 🔥 Featured Projects
 
+## 🧑‍🎓 Learning projects
+
 ### [Custom Shell: C](https://github.com/ddavlet/minishell)
 A fully functional shell built from scratch, supporting **basic commands**, **piping**, and **error handling**. This project improved my understanding of **process management**, **memory allocation**, and **system calls** in Linux.
 
@@ -37,6 +39,11 @@ Cub3D is a raycasting-based 3D graphical project inspired by the classic Wolfens
 ### [Pong cross-platform game: Multilanguage](https://github.com/ddavlet/ft_transcendence)
 This project involves building a web application using Django, focusing on user management, security, and gameplay experience. The application allows users to play a real-time multiplayer Pong game, with key features such as two-factor authentication (2FA), JWT-based authentication, and user registration with customizable profiles. Additionally, the project implements an API server, security measures (password hashing, protection against XSS/SQL injections), and a CLI-based Pong client.
 
+## 🗂 Real projects
+
+### [Telegram sms gateway: Python](https://github.com/ddavlet/telegram_sms_gateway)
+This project, Telegram SMS Gateway, is a system that allows sending SMS via Telegram by integrating a Telegram bot with an SMS gateway. It is designed to automate sending SMS messages directly from Telegram, simplifying the communication process.
+
 ## 🌱 Currently Learning
 I’m currently deepening my knowledge in:
 - **Advanced backend architectures** with a focus on scalable solutions.
@@ -48,6 +55,9 @@ I’m currently deepening my knowledge in:
 
 ### [Simple scenario simulator: Java](https://github.com/ddavlet/Ajax-Launcher)
 Implementation of a simple Java program according to a given class diagram written in UML. Airport simulator configurable with multiple scenarios to analyse potential bottleneck.
+
+### [Telegram OpenAi gateway: Javascript, MongoDB](https://github.com/ddavlet/openai-telegram-gateway)
+This project is a Telegram bot designed to interact with OpenAI models, featuring integrated database support and various customizable settings. It is inspired by the goal of simplifying access to OpenAI's capabilities in Uzbekistan, making its features more user-friendly in popular social media app.
 
 ---
 
