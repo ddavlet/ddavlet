@@ -39,7 +39,7 @@ Cub3D is a raycasting-based 3D graphical project inspired by the classic Wolfens
 ### [Pong cross-platform game: Multilanguage](https://github.com/ddavlet/ft_transcendence)
 This project involves building a web application using Django, focusing on user management, security, and gameplay experience. The application allows users to play a real-time multiplayer Pong game, with key features such as two-factor authentication (2FA), JWT-based authentication, and user registration with customizable profiles. Additionally, the project implements an API server, security measures (password hashing, protection against XSS/SQL injections), and a CLI-based Pong client.
 
-## 🗂 Real projects
+## 🗂 Projects
 
 ### [Telegram sms gateway: Python](https://github.com/ddavlet/telegram_sms_gateway)
 This project, Telegram SMS Gateway, is a system that allows sending SMS via Telegram by integrating a Telegram bot with an SMS gateway. It is designed to automate sending SMS messages directly from Telegram, simplifying the communication process.
