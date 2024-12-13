@@ -72,7 +72,7 @@ This project is a Telegram bot designed to interact with OpenAI models, featurin
 Feel free to reach out to me through:
 - [Email](mailto:dilshod95@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dilshod-davletyarov/)
-- [Portfolio](https://ddavlet.com)
+- [Portfolio](https://www.ddavlety.com/))
 
 ---
 
