@@ -44,6 +44,9 @@ This project involves building a web application using Django, focusing on user 
 ### [Telegram sms gateway: Python](https://github.com/ddavlet/telegram_sms_gateway)
 This project, Telegram SMS Gateway, is a system that allows sending SMS via Telegram by integrating a Telegram bot with an SMS gateway. It is designed to automate sending SMS messages directly from Telegram, simplifying the communication process.
 
+### [Telegram Wohnung Finder](https://github.com/ddavlet/wg_gesucht_easyfinder)
+Find your new home fast and easy!
+
 ## 🌱 Currently Learning
 I’m currently deepening my knowledge in:
 - **Advanced backend architectures** with a focus on scalable solutions.
